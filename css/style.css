@@ -105,7 +105,7 @@ body {
 }
 
 header {
-    background-image: url("../img/background.jpg");
+    background-color: #787C63;
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
